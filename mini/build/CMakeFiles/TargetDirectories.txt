@@ -1,0 +1,4 @@
+/cygdrive/e/vscode/network/networkcode/build/CMakeFiles/server.dir
+/cygdrive/e/vscode/network/networkcode/build/CMakeFiles/client.dir
+/cygdrive/e/vscode/network/networkcode/build/CMakeFiles/edit_cache.dir
+/cygdrive/e/vscode/network/networkcode/build/CMakeFiles/rebuild_cache.dir

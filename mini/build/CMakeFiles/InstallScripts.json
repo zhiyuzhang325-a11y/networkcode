@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/cygdrive/e/vscode/network/networkcode/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

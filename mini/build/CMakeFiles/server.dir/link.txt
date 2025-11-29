@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/server.dir/src/server.cpp.o -o /cygdrive/e/vscode/network/networkcode/bin/server.exe -Wl,--out-implib,/cygdrive/e/vscode/network/networkcode/bin/libserver.dll.a -Wl,--major-image-version,0,--minor-image-version,0
