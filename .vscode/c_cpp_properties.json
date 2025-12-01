@@ -18,7 +18,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/select/include"
             ],
             "defines": [
                 "_DEBUG",
