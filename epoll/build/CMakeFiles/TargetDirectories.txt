@@ -1,0 +1,4 @@
+/home/lyc/桌面/network/epoll/build/CMakeFiles/client_app.dir
+/home/lyc/桌面/network/epoll/build/CMakeFiles/server_app.dir
+/home/lyc/桌面/network/epoll/build/CMakeFiles/edit_cache.dir
+/home/lyc/桌面/network/epoll/build/CMakeFiles/rebuild_cache.dir

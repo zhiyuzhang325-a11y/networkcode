@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server_app.dir/src/main/server.cpp.o CMakeFiles/server_app.dir/src/server/serversocket.cpp.o CMakeFiles/server_app.dir/src/utility/log.cpp.o -o ../bin/server_app 

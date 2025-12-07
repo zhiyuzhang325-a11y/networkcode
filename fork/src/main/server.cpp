@@ -15,11 +15,16 @@ void ChildEXIT(int sig) {
     _exit(0);
 }
 
+void handler(int sig) {
+    waitpid(-1, nullptr, WNOHANG);
+}
+
 int main() {
     ServerSocket server("127.0.0.1", 8080);
 
     signal(SIGTERM, FathEXIT);  // SIGTERM 15   kill
     signal(SIGINT, FathEXIT);   // SIGINT 2     Ctrl + c
+    signal(SIGCHLD, handler);
 
     while(true) {
         int conn_fd = server.accept();

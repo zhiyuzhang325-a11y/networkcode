@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client_app.dir/src/client/clientsocket.cpp.o CMakeFiles/client_app.dir/src/main/client.cpp.o CMakeFiles/client_app.dir/src/utility/log.cpp.o -o ../bin/client_app 
